@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sensei/Project/Maze/Src/MazeSolver.cpp
+MazeSolver.h
+/home/sensei/Project/Maze/Src/MazeSolver.h
+
+/home/sensei/Project/Maze/Src/MazeSolver.h
+fstream
+-
+iostream
+-
+sstream
+-
+string.h
+-
+vector
+-
+State.h
+/home/sensei/Project/Maze/Src/State.h
+
+/home/sensei/Project/Maze/Src/State.h
+
